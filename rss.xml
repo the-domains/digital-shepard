@@ -4,8 +4,15 @@
         <description><![CDATA[Digital Shepard]]></description>
         <link>https://thegrid.ai/digital-shepard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 07:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 07:05:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-shepard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Archive - The Gordon Parks Foundation]]></title>
+            <description><![CDATA[<article><h1>Archive - The Gordon Parks Foundation</h1><p>The Gordon Parks Foundation permanently preserves the work of Gordon Parks, makes it available to the public through exhibitions, books, and electronic media and supports artistic and educational activities that advance what Gordon described as "the common search for a better life and a better world."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d36ede7a1f9030245f21f82747f86d6506f549a7.jpg"></article>]]></description>
+            <link>http://www.gordonparksfoundation.org/archive</link>
+            <guid isPermaLink="false">6e7bf723-4658-437c-8206-657952762f3a</guid>
+            <pubDate>Wed, 01 Jun 2016 07:04:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yoruba Deities Re-visited]]></title>
             <description><![CDATA[<article><h1>Yoruba Deities Re-visited</h1><p>Photographer and Noire 3000 Studios CEO, James Lewis's presents: The Orisha Experience. This is his photography collection of artistic interpretation of Yoruba deities James C. Lewis James C. Lewis James C. Lewis James C. Lewis James C. Lewis James C. Lewis James C. Lewis James C. Lewis James C.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bb17e0e9303e48cb41efd27cc594d37fa43b21d.jpg"></article>]]></description>
@@ -68,12 +75,6 @@
             <link>http://gnosticteachings.org/scriptures/gnostic-scriptures/307-thunder-perfect-mind.html</link>
             <guid isPermaLink="false">7948b82e-9364-4246-a460-bbf06940f879</guid>
             <pubDate>Wed, 01 Jun 2016 06:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>http://drmariaroot.com/doc/BillOfRights.pdf</link>
-            <guid isPermaLink="false">703a2b26-41fe-4f74-a8f7-7c7a42eb0215</guid>
-            <pubDate>Wed, 01 Jun 2016 06:16:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
