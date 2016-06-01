@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://gnosticteachings.org/scriptures/gnostic-scriptures/307-thunder-perfect-mind.html'
 title: 'Thunder, Perfect Mind'
-datePublished: '2016-06-01T06:10:34.862Z'
-dateModified: '2016-06-01T06:10:04.812Z'
+datePublished: '2016-06-01T06:16:36.432Z'
+dateModified: '2016-06-01T06:15:57.054Z'
 starred: false
 sourcePath: _posts/2016-06-01-thunder-perfect-mind.md
 inFeed: true
