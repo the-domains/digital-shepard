@@ -4,8 +4,22 @@
         <description><![CDATA[Digital Shepard]]></description>
         <link>https://thegrid.ai/digital-shepard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 07:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 07:16:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-shepard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/582da415-78cb-4000-872f-859ee90d87e2.jpg">]]></description>
+            <link>https://thegrid.ai/digital-shepard/e6a71f6e-fe49-4b14-8d53-483de7a688d3/index.html</link>
+            <guid isPermaLink="false">e6a71f6e-fe49-4b14-8d53-483de7a688d3</guid>
+            <pubDate>Wed, 01 Jun 2016 07:15:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b44520-1939-4b65-87ce-57534f274e5d.jpg">]]></description>
+            <link>https://thegrid.ai/digital-shepard/1325ddbf-a6bd-4d70-99af-027fd16b4912/index.html</link>
+            <guid isPermaLink="false">1325ddbf-a6bd-4d70-99af-027fd16b4912</guid>
+            <pubDate>Wed, 01 Jun 2016 07:15:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74f262ca-a309-4df9-ace0-6a6547e83fc9.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.psychologytoday.com/blog/dating-decisions/201405/3-myths-about-bisexuality-debunked-science</link>
             <guid isPermaLink="false">02b6e456-11c8-4f79-8a1b-04d30215786a</guid>
             <pubDate>Wed, 01 Jun 2016 06:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[QWOC Media Wire]]></title>
-            <description><![CDATA[<article><h1>QWOC Media Wire</h1><p>Queer Women of Color Media Wire is a media publishing and advocacy organization that amplifies the voices of Lesbian, Bisexual, Queer, Transgender women and gender non-conforming people of color, diaspora, and other racial and ethnic minorities around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15e1f40c54efdcce55123c2cdd44864f9c68703a.jpg"></article>]]></description>
-            <link>http://www.qwoc.org/</link>
-            <guid isPermaLink="false">939931fd-31e0-4496-abc4-cbd5a290f97a</guid>
-            <pubDate>Wed, 01 Jun 2016 06:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lorna Byrne]]></title>
-            <description><![CDATA[<article><h1>Lorna Byrne</h1><p>Lorna is interviewed on Today, America's favourite morning show..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f82475c8002104702ff07b70b5159b8eced3aae.jpg"></article>]]></description>
-            <link>http://www.lornabyrne.com/</link>
-            <guid isPermaLink="false">fa41c5dc-d048-4879-a7f5-a6ac2f24d832</guid>
-            <pubDate>Wed, 01 Jun 2016 06:32:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
