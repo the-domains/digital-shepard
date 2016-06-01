@@ -1,0 +1,14 @@
+layout_spectrum: 0.685548588167876
+typography_spectrum: 0.4918509260751307
+color:
+  brandStrength: 0.0015659928321838379
+  lightness: 0.19715220178477466
+  saturation: 0.49872658331878483
+  rhythmicContrast: 0.9445021885912865
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+name: Digital Shepard
