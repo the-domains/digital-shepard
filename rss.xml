@@ -4,8 +4,22 @@
         <description><![CDATA[Digital Shepard]]></description>
         <link>https://thegrid.ai/digital-shepard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 06:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 06:55:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-shepard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitopia]]></title>
+            <description><![CDATA[<article><h1>Bitopia</h1><p>Bitopia: a magazine bi and for bisexuals</p></article>]]></description>
+            <link>https://bitopia.org/</link>
+            <guid isPermaLink="false">a89e8558-693a-46ec-9101-ef0983c84c11</guid>
+            <pubDate>Wed, 01 Jun 2016 06:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netflix has tons of hidden categories - here's how to see them]]></title>
+            <description><![CDATA[<article><h1>Netflix has tons of hidden categories - here's how to see them</h1><p>The vast amount of content on Netflix can get pretty unwieldy. Luckily, there's a secret, better way to browse the swaths of mediocre titles on the service to get to what you're really looking for. Netflix has a master list of categories that go far beyond the usual Action, Drama, Sci-Fi and the like.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ea69af7d6f812a0aca10c27119149e0735c0761.jpg"></article>]]></description>
+            <link>http://mashable.com/2016/01/11/netflix-search-codes/#CM18ileXEZqF</link>
+            <guid isPermaLink="false">6725ee1c-8677-4c50-835a-99572194b343</guid>
+            <pubDate>Wed, 01 Jun 2016 06:55:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3 Myths About Bisexuality, Debunked by Science]]></title>
             <description><![CDATA[<article><h1>3 Myths About Bisexuality, Debunked by Science</h1><p>Bisexuality is the tendency to be sexually attracted to both men and women. To some, this may sound like a superpower doubling one's romantic options (and odds). But in real life, bisexuality can be an awkward identity to have, creating a challenge truly fitting in with either the "straight" or LGBT communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7b0a75543a5473d799d44866fda1632bc837c93.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <link>http://gnosticteachings.org/scriptures/gnostic-scriptures/307-thunder-perfect-mind.html</link>
             <guid isPermaLink="false">f367f3b1-e42e-46d8-afd8-9790f35a00be</guid>
             <pubDate>Wed, 01 Jun 2016 06:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/854c18c9-f483-4f33-be67-420b1dd9818d.jpg">]]></description>
-            <link>https://thegrid.ai/digital-shepard/14ad3192-1ea3-4be4-a945-0312f2b9ef87/index.html</link>
-            <guid isPermaLink="false">14ad3192-1ea3-4be4-a945-0312f2b9ef87</guid>
-            <pubDate>Wed, 01 Jun 2016 06:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1316bd90-72d1-4d17-9e39-fad13f25876d.jpg">]]></description>
-            <link>https://thegrid.ai/digital-shepard/76d6bc14-9cf1-450d-a951-d932db0b632d/index.html</link>
-            <guid isPermaLink="false">76d6bc14-9cf1-450d-a951-d932db0b632d</guid>
-            <pubDate>Wed, 01 Jun 2016 06:05:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
