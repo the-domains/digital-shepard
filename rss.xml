@@ -4,8 +4,15 @@
         <description><![CDATA[Digital Shepard]]></description>
         <link>https://thegrid.ai/digital-shepard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 07:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 07:07:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-shepard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grand Tour New York City.com : Profile]]></title>
+            <description><![CDATA[<article><h1>The Grand Tour New York City.com : Profile</h1><p>Come discover the architecture and social history of the Grand Central neighborhood with urban explorer, historian, and storyteller Justin Ferate. This award-winning free 90-minute guided walking tour is sponsored by the Grand Central Partnership and... more Come discover the architecture and social history of the Grand Central neighborhood with urban explorer, historian, and storyteller Justin Ferate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f34210edda1d5200f159c8b327e1802206e56d8.jpg"></article>]]></description>
+            <link>http://www.nyc.com/guided_tours/the_grand_tour.1020476/editorial_review.aspx</link>
+            <guid isPermaLink="false">08b8d853-78c8-47f9-a0cf-de2d82ae73cc</guid>
+            <pubDate>Wed, 01 Jun 2016 07:07:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Archive - The Gordon Parks Foundation]]></title>
             <description><![CDATA[<article><h1>Archive - The Gordon Parks Foundation</h1><p>The Gordon Parks Foundation permanently preserves the work of Gordon Parks, makes it available to the public through exhibitions, books, and electronic media and supports artistic and educational activities that advance what Gordon described as "the common search for a better life and a better world."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d36ede7a1f9030245f21f82747f86d6506f549a7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.behance.net/surrealsol</link>
             <guid isPermaLink="false">94e0311e-9c91-4aa3-8abd-6aa4bfb443ca</guid>
             <pubDate>Wed, 01 Jun 2016 06:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thunder, Perfect Mind]]></title>
-            <description><![CDATA[<article><h1>Thunder, Perfect Mind</h1><p>One of the most quoted texts from the collection discovered at Nag Hammadi, "Thunder, Perfect Mind" is perhaps the least understood one. The author presents a scripture founded upon a deep knowledge of the two trees from the Garden of Eden: the Tree of Life, which is the science of Kabbalah, and the Tree of Knowledge, which is Daath or Gnosis, the science of Alchemy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d59e1c998f8f7278092d8603339ce14b0b7ae7f.jpg"></article>]]></description>
-            <link>http://gnosticteachings.org/scriptures/gnostic-scriptures/307-thunder-perfect-mind.html</link>
-            <guid isPermaLink="false">7948b82e-9364-4246-a460-bbf06940f879</guid>
-            <pubDate>Wed, 01 Jun 2016 06:16:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
